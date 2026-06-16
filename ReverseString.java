@@ -13,3 +13,5 @@ public class ReverseString{
         
     }
 }
+
+//reverse(str) is inbuilt function.
